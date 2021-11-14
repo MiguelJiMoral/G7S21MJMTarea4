@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">G7S21MJMTarea4</string>
+    <string name="lBienvenida">Bienvenido Usuario</string>
+    <string name="lNombre">Nombre</string>
+    <string name="lContra">Contraseña</string>
+    <string name="txtUsuario" />
+    <string name="txtContraseña" />
+    <string name="btnIngresar">Ingresar</string>
+    <string name="lIngreso">Ingreso Exitoso</string>
+</resources>
